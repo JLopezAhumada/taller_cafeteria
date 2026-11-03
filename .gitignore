@@ -1,0 +1,9 @@
+### IntelliJ IDEA ###
+out/
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+*.class
+
+### Mac / Linux ###
+.DS_Store
